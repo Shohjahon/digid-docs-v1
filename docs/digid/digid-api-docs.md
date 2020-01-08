@@ -2,11 +2,11 @@
 tags: [digid]
 ---
 
-# DigID API documentation
+# Документация по DigID API
 
 
-  This documentation is to explain technical features of **DigID** for developers who have no any background in this project.
+  Эта документация должна объяснить технические особенности ** DigID ** для разработчиков, которые не имеют никакого опыта в этом проекте.
 
-  **DigID** is the solution to overcome issues in authenticating clients in different fields of services for citizens provided by authorities , such as Banking , Registering properties of citizens and etc.
+  ** DigID ** - это решение проблем аутентификации клиентов в различных сферах услуг для граждан, предоставляемых органами власти, такими как банковское дело.
 
 
